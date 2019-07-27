@@ -1,0 +1,14 @@
+D:\dotNetCoreAuth\dotnetRestApi\bin\Debug\netcoreapp2.1\dotnetRestApi.deps.json
+D:\dotNetCoreAuth\dotnetRestApi\bin\Debug\netcoreapp2.1\dotnetRestApi.runtimeconfig.json
+D:\dotNetCoreAuth\dotnetRestApi\bin\Debug\netcoreapp2.1\dotnetRestApi.runtimeconfig.dev.json
+D:\dotNetCoreAuth\dotnetRestApi\bin\Debug\netcoreapp2.1\dotnetRestApi.dll
+D:\dotNetCoreAuth\dotnetRestApi\bin\Debug\netcoreapp2.1\dotnetRestApi.pdb
+D:\dotNetCoreAuth\dotnetRestApi\obj\Debug\netcoreapp2.1\dotnetRestApi.csprojAssemblyReference.cache
+D:\dotNetCoreAuth\dotnetRestApi\obj\Debug\netcoreapp2.1\dotnetRestApi.csproj.CoreCompileInputs.cache
+D:\dotNetCoreAuth\dotnetRestApi\obj\Debug\netcoreapp2.1\dotnetRestApi.RazorAssemblyInfo.cache
+D:\dotNetCoreAuth\dotnetRestApi\obj\Debug\netcoreapp2.1\dotnetRestApi.RazorAssemblyInfo.cs
+D:\dotNetCoreAuth\dotnetRestApi\obj\Debug\netcoreapp2.1\dotnetRestApi.AssemblyInfoInputs.cache
+D:\dotNetCoreAuth\dotnetRestApi\obj\Debug\netcoreapp2.1\dotnetRestApi.AssemblyInfo.cs
+D:\dotNetCoreAuth\dotnetRestApi\obj\Debug\netcoreapp2.1\dotnetRestApi.RazorTargetAssemblyInfo.cache
+D:\dotNetCoreAuth\dotnetRestApi\obj\Debug\netcoreapp2.1\dotnetRestApi.dll
+D:\dotNetCoreAuth\dotnetRestApi\obj\Debug\netcoreapp2.1\dotnetRestApi.pdb
